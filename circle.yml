@@ -1,5 +1,5 @@
 # The deployment section should be excluded until
-# it is explicitly included in module 5 testing...HUB testing 1212  testing
+# it is explicitly included in module 5 testing.
 deployment:
   dockerhub:
     branch: master
