@@ -1,9 +1,3 @@
-machine:
-  node:
-    version: 0.10.22
-dependencies:
-  override:
-    - npm install --dev
 # The deployment section should be excluded until
 # it is explicitly included in module 5 testing...HUB
 deployment:
